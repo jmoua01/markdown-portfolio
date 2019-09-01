@@ -1,1 +1,1 @@
-![Image of a dog] (https://www.petmd.com/dog/conditions/digestive/c_dg_diarrhea_acute)
+![Image of a yakocat] (https://octodex.github.com/images/yaktocat.png)
